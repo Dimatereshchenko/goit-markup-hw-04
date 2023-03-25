@@ -316,7 +316,7 @@ button:focus {
 }
 
 .customers {
-  margin-top: 0;
+  margin-top: 120px;
   margin-bottom: 72px;
   font-size: 36px;
   line-height: 1.11;
@@ -324,7 +324,6 @@ button:focus {
   letter-spacing: 0.02em;
   text-transform: capitalize;
   color: var(--navi-blue);
-  margin-bottom: 20px;
 }
 
 .customers-item {
